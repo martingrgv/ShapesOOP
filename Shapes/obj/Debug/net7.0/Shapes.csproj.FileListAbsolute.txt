@@ -1,0 +1,15 @@
+/Users/azichka/Mart^/ShapesOOP/Shapes/bin/Debug/net7.0/Shapes
+/Users/azichka/Mart^/ShapesOOP/Shapes/bin/Debug/net7.0/Shapes.deps.json
+/Users/azichka/Mart^/ShapesOOP/Shapes/bin/Debug/net7.0/Shapes.runtimeconfig.json
+/Users/azichka/Mart^/ShapesOOP/Shapes/bin/Debug/net7.0/Shapes.dll
+/Users/azichka/Mart^/ShapesOOP/Shapes/bin/Debug/net7.0/Shapes.pdb
+/Users/azichka/Mart^/ShapesOOP/Shapes/obj/Debug/net7.0/Shapes.csproj.AssemblyReference.cache
+/Users/azichka/Mart^/ShapesOOP/Shapes/obj/Debug/net7.0/Shapes.GeneratedMSBuildEditorConfig.editorconfig
+/Users/azichka/Mart^/ShapesOOP/Shapes/obj/Debug/net7.0/Shapes.AssemblyInfoInputs.cache
+/Users/azichka/Mart^/ShapesOOP/Shapes/obj/Debug/net7.0/Shapes.AssemblyInfo.cs
+/Users/azichka/Mart^/ShapesOOP/Shapes/obj/Debug/net7.0/Shapes.csproj.CoreCompileInputs.cache
+/Users/azichka/Mart^/ShapesOOP/Shapes/obj/Debug/net7.0/Shapes.dll
+/Users/azichka/Mart^/ShapesOOP/Shapes/obj/Debug/net7.0/refint/Shapes.dll
+/Users/azichka/Mart^/ShapesOOP/Shapes/obj/Debug/net7.0/Shapes.pdb
+/Users/azichka/Mart^/ShapesOOP/Shapes/obj/Debug/net7.0/Shapes.genruntimeconfig.cache
+/Users/azichka/Mart^/ShapesOOP/Shapes/obj/Debug/net7.0/ref/Shapes.dll
